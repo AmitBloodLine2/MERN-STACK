@@ -11,6 +11,7 @@ const Home = () => {
       <Link href='/about'>About</Link>
       <Link href='/eventhandling'>Event Handling</Link>
       <Link href='/todolist'>TodoList</Link>
+      <Link href='/uploadPost'>UploadPost</Link>
       <input type='text'></input>
       <button className='btn btn-warning'>Next</button>
     </div>
